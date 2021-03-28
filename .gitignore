@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# google drive sync file
+desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# BackUp
+BackUp/
+
+
+# StockLake
+StockLake/
+
+# model file
+model/
+
+# model tring history
+training_history/
